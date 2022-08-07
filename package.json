@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/find-vrajesh/config#readme",
   "release": {
-    "branches": ["main"]
+    "branches": [
+      "main"
+    ]
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.32.0",
