@@ -20,6 +20,9 @@
     "url": "https://github.com/find-vrajesh/config/issues"
   },
   "homepage": "https://github.com/find-vrajesh/config#readme",
+  "release": {
+    "branches": ["main"]
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.32.0",
     "@typescript-eslint/parser": "^5.32.0",
