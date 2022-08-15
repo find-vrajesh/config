@@ -22,6 +22,9 @@
       "main"
     ]
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.32.0",
     "@typescript-eslint/parser": "^5.32.0",
